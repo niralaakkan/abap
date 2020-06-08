@@ -16,6 +16,7 @@
 *"----------------------------------------------------------------------
 
 ******Extracting data from likp
+******Testing GIT function
 SELECT
      vbeln
      erdat
