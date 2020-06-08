@@ -16,7 +16,7 @@
 *"----------------------------------------------------------------------
 
 ******Extracting data from likp
-******Testing GIT function
+
 SELECT
      vbeln
      erdat
@@ -155,3 +155,4 @@ LOOP AT lt_final INTO wa_final.
 WRITE:/ wa_final-vbeln,20 wa_final-erdat, 40 wa_final-posnr, 60 wa_final-vbeln1, 80 wa_final-posnr1, 100 wa_final-fktyp, 120 wa_final-fkdat.
 ENDLOOP.
 ENDIF.
+******Testing GIT function
